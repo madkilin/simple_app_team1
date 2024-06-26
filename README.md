@@ -1,9 +1,9 @@
 # simple_app_team1
 
 Team 1:
--Mochammad Agus Dharma Kilin
--Adhya Nursyahidah
--Ade Saep Sulaiman
+- Mochammad Agus Dharma Kilin
+- Adhya Nursyahidah
+- Ade Saep Sulaiman
 
 
 simple app with API integration: https://reqres.in/
