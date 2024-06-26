@@ -6,7 +6,7 @@ Team 1:
 - Ade Saep Sulaiman
 
 
-simple app with API integration: https://reqres.in/
+Simple app with API integration: https://reqres.in/
 
 ## Getting Started
 
